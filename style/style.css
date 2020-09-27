@@ -5,9 +5,9 @@
     --VeryDarkBlue: hsl(229, 57%, 11%);
     font-family: 'Raleway', sans-serif;
 }
-*{
+/* *{
     border: 1px red solid;
-}
+} */
 body{
     margin: 0;
     padding: 0;
@@ -113,6 +113,7 @@ main{
     justify-content: space-around;
     position: absolute;
     bottom: -18%;
+    text-transform: uppercase;
 }
 .gigas p:first-child{
     color: var(--VeryDarkBlue);
